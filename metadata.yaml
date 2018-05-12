@@ -1,10 +1,16 @@
 _repo: Old-Broadbrim-Into-the-Heart-of-Australia-or-A-Strange-Bargain-and-Its-Consequences_48034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Author of "Old Broadbrim"
     gutenberg_agent_id: '44590'
     url: http://www.gutenberg.org/2009/agents/44590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48034#Old-Broadbrim-Into-the-Heart-of-Australia-or-A-Strange-Bargain-and-Its-Consequences
 gutenberg_issued: '2015-01-20'
 gutenberg_type: Text
 identifiers:
